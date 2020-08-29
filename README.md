@@ -1,4 +1,4 @@
-Android-App_Development (Coursera)
+Android-App-Development (Coursera)
 ------------------------------------------------------------------------------
 
 This Specialization enables learners to successfully apply core Java programming languages features & software patterns needed to develop maintainable mobile apps
