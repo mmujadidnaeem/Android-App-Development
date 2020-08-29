@@ -12,4 +12,4 @@ Courses in this Specialization:
 	4. Engineering Maintainable Android Apps
 	5. Capstone MOOC for "Android App Development"
 	
-Note: all of the programming assignments will be updated soon!
+Note: code of all of the programming assignments will be updated soon!
