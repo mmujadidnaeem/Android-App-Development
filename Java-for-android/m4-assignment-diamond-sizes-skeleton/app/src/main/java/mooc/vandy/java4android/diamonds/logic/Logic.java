@@ -49,12 +49,13 @@ public class Logic
 
         printTop(size);
         // for upper triangle
-        for(int i=1;i<size;i++)
-        {
+        for(int i=1;i<size;i++){
+
             mOut.print("\n");
             mOut.print("|");
             drawTop(size,i);
             mOut.print("/");
+            
             for(int k=1;k<=(2*(i-1));k++)
             {
                 if(i%2==0)
@@ -81,6 +82,7 @@ public class Logic
         mOut.print("|");
         /*The following code is to print the lower half of the triangle to complete the diamond*/
         for(int i=1;i<size;i++) {
+
             mOut.print("\n");
             mOut.print("|");
             for (int j = 1; j <= i; j++)
@@ -104,6 +106,7 @@ public class Logic
 
     // TODO -- add your code here
     public void printTop(int count){
+
         mOut.print("+");
         for(int i=1;i<=(2*count);i++)
             mOut.print("-");
@@ -112,6 +115,7 @@ public class Logic
     }
     public void drawTop(int n,int i )
     {
+
         /*The code below prints the desired number of spaces in the upper triangle*/
         for(int j=1;j<=(n-i);j++)
             mOut.print(" ");
