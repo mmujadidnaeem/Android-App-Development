@@ -77,6 +77,7 @@ public class Logic
     public double calculate(int size, int count) {
 
         // TODO -- add your code here
+		
         double c=0;
         long seed = 1;
         int j;
@@ -99,7 +100,5 @@ public class Logic
         return 100.0 * c/(double)count;
     }
 
-
-    // TODO - add your code here
-}
+    
 
