@@ -44,4 +44,4 @@ Week 4:
 			
 Course Certificate
 -------------------------------------------------------------------
-(https://github.com/mmujadidnaeem/Android-App-Development/blob/master/Java-for-android/Java-for-android-certificate.jpg)
+![Certificate](https://coursera.org/share/9dc1e5df143bbbacdd00508ba28b9c46)
