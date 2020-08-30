@@ -17,7 +17,7 @@ Week 2:
 	
 Week 3:
 	
--Module 6: Classes and Interfaces
+- Module 6: Classes and Interfaces
 	- m6-assignment-gate-a
 	- m6-assignment-gate-b
 ModuIe 7: Inheritance and Polymorphism
@@ -25,7 +25,7 @@ ModuIe 7: Inheritance and Polymorphism
 	
 Week 4:
 
--Module 8: Android Calculator App Mini-Project 
+- Module 8: Android Calculator App Mini-Project 
 	- m8-assignment-calculator-skeleton
 			
 Course Certificate
