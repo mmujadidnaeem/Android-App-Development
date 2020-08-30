@@ -34,4 +34,9 @@ Week 4:
 	
 	Module 8: Android Calculator App Mini-Project 
 		+ m8-assignment-calculator-skeleton
+
 			
+Course Certificate
+-------------------------------------------------------------------
+
+ 
