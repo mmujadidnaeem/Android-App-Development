@@ -20,7 +20,7 @@ Week 3:
 - Module 6: Classes and Interfaces
 	- m6-assignment-gate-a
 	- m6-assignment-gate-b
-ModuIe 7: Inheritance and Polymorphism
+- ModuIe 7: Inheritance and Polymorphism
 	- m7-assignment-buildings
 	
 Week 4:
@@ -30,4 +30,3 @@ Week 4:
 			
 Course Certificate
 -------------------------------------------------------------------
-![Certificate](/Java-for-android.jpg)
